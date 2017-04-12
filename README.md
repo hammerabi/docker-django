@@ -19,7 +19,7 @@ You could use some REST.
 
 # Getting started:
 
-First, create a virtual machine to run as a local Docker host ;)
+First, create a virtual machine to run as a local Docker host
 
 `docker-machine create --driver virtualbox <your-container-name-here>`
 
