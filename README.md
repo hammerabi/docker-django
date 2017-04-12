@@ -57,7 +57,7 @@ API root is localhost:8000/api/
 
 DRF is configured with a basic HTTP auth, so you'll need to run a
 ```
-./manage.py createsuperuserå
+./manage.py createsuperuser
 ```
 
 --------------------------------------------------------------------------------
