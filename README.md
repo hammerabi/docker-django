@@ -23,7 +23,7 @@ First, create a virtual machine to run as a local Docker host
 
 `docker-machine create --driver virtualbox <your-container-name-here>`
 
-Once that is up an running, change into this directory and run the following to build the project:
+Once that is up and running, change into this directory and run the following to build the project:
 
 ```
 docker-compose pull
