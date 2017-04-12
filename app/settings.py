@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     #Your apps go here
     #...
+    'my_app',
 
 
     #Your libraries go here
