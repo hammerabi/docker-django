@@ -53,7 +53,7 @@ docker-compose run web bash
 
 ```
 
-API root is <localhost>:8000/api/
+API root is localhost:8000/api/
 
 DRF is configured with a basic HTTP auth, so you'll need to run a
 ```
