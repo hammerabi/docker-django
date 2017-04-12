@@ -62,3 +62,8 @@ docker-compose run web bash
 #### Django 1.10
 
 #### postgres:latest
+
+## Stay tuned for some new branches that will:
+#### Integrate Elasticsearch + Haystack
+#### Integrate Node/Webpack and React as a view layer
+#### REDIS
