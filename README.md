@@ -1,4 +1,4 @@
-This is a one-stop-shop for Django/Docker/DRF
+This is a one-stop-shop for Django/Docker/DRF/Postgres
 
 You could use some REST.
 
