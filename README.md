@@ -19,7 +19,7 @@ You could use some REST.
 
 # Getting started:
 
-First, create a virtual machine to run as a local Docker host
+Create a virtual machine to run as a local Docker host
 
 `docker-machine create --driver virtualbox <your-container-name-here>`
 
@@ -33,9 +33,6 @@ docker-compose build
 docker-compose up
 ```
 
-
-
-That's it!
 
 To access `./manage.py`, from the project root, run `docker-compose run web bash`
 
